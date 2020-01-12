@@ -30,7 +30,7 @@ Assembly 4 is available through the FreeCAD Addon Manager (menu Tools > Addon Ma
 
 ## Getting Started
 
-You can use the [example assemblies](https://github.com/Zolko-123/FreeCAD_Assembly4/tree/master/Examples) to experiment with this workbench's features. Open one _asm_something.fcstd_ file and try out the functions. There are `ReadMe.txt` files in each directory with some explanations. There are tutorials available to lear tu use Assembly4:
+You can use the [example assemblies](https://github.com/Zolko-123/FreeCAD_Assembly4/tree/master/Examples) to experiment with this workbench's features. Open one _asm_something.fcstd_ file and try out the functions. There are `ReadMe.txt` files in each directory with some explanations. There are tutorials available to learn to use Assembly4:
 
 * [a quick assembly from scratch](Examples/Tutorial1/TUTORIAL1.md)
 * [a cinematic assembly in one file, using a master sketch](Examples/Tutorial2/TUTORIAL2.md)
